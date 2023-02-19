@@ -1,1 +1,2 @@
-# Password-Generator
+Password Generator
+Это программа для генерации случайных паролей.
